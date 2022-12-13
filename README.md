@@ -42,5 +42,9 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 4. [Pinia](https://pinia.vuejs.org/ssr/nuxt.html#installation)
 
 ## ESLint
+
 See: [.eslintrc](/.eslintrc)
 
+## Testing
+
+[Nuxt Test Utils](https://nuxt.com/docs/getting-started/testing#setup)
